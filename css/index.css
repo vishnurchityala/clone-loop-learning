@@ -1,0 +1,9 @@
+.navbar-brand{
+    margin-right:0.5em;
+}
+.alr{
+    align-self: flex-end;
+}
+.navbar-logos{
+    max-height: 25px;
+}
